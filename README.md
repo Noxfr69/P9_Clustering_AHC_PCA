@@ -1,6 +1,6 @@
 # P9_Clustering_AHC_PCA
 
-**Clustering project** done during my bachelor in Data analysis
+**Clustering project** done during my Data analysis bachelor
 
 - A chicken farm company want to start exporting
 - Find relevant Data for countries
